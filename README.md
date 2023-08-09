@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [ChatHaruhi](https://github.com/LC1332/Chat-Haruhi-Suzumiya)
 - 🌱 I’m currently learning **LLM**
-- ✍️ My [PaperReading](https://github.com/todochenxi/paperReading) 
+- ✍️ My [paperReading](https://github.com/todochenxi/paperReading) 
 - 🏃 Guitar / Photograph
 - 📫 How to reach me: **to_do_chenxi@163.com**
 
