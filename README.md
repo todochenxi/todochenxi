@@ -11,10 +11,10 @@
 - 🏃 Guitar / Photograph
 - 📫 How to reach me: **to_do_chenxi@163.com**
 - I'm currently learning:
-- [ ] langchain
-- [ ] pinecone
-- [ ] fastapi
-- [x] gradio
-- [ ] streamlit
+  - [ ] langchain
+  - [ ] pinecone
+  - [ ] fastapi
+  - [x] gradio
+  - [ ] streamlit
 
 
