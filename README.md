@@ -4,11 +4,9 @@
 **todochenxi/todochenxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-
-- 🔭 I’m currently working on [ChatHaruhi](https://github.com/LC1332/Chat-Haruhi-Suzumiya)
 - 🌱 I’m currently learning **LLM**
 - ✍️ My [paperReading](https://github.com/todochenxi/paperReading) 
-- 🏃 Guitar / Photograph
+- 🏃 Guitar / Photograph / Cycling
 - 📫 How to reach me: **to_do_chenxi@163.com**
 - I'm currently learning:
   - [ ] langchain
