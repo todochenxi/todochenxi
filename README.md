@@ -11,6 +11,7 @@
 - tech stack:
   - [ ] langchain
   - [ ] pinecone
+  - [ ] chromadb
   - [ ] fastapi
   - [x] gradio
   - [ ] streamlit
