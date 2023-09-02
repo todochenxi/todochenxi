@@ -14,6 +14,5 @@
   - [x] chromadb
   - [ ] fastapi
   - [x] gradio
-  - [ ] streamlit
 
 
