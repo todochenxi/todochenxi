@@ -8,12 +8,5 @@
 - ✍️ My [paperReading](https://github.com/todochenxi/paperReading) 
 - 🏃 Guitar / Photograph / Cycling
 - 📫 How to reach me: **to_do_chenxi@163.com**
-- tech stack:
-  - [ ] langchain
-  - [ ] pinecone
-  - [x] chromadb
-  - [ ] fastapi
-  - [x] gradio
-  - [ ] postman
 
 
